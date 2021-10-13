@@ -690,7 +690,7 @@ button:focus {
   font-weight: 400;
   padding: 11px 28px;
   border: 2px solid;
-}
+ }
 .readon.transparent.primary {
   color: #106eea;
   border-color: #106eea;
@@ -7045,7 +7045,7 @@ body .modal-backdrop {
   background-image: url(assets/images/breadcrumbs/.png);
 }
 .rs-breadcrumbs.bg-6 {
-  background-image: url(assets/images/breadcrumbs/.png);
+  background-image: url(assets/images/breadcrumbs/6.png);
 }
 .rs-breadcrumbs.bg-7 {
   background-image: url(assets/images/breadcrumbs/.png);
